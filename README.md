@@ -1,15 +1,16 @@
 
-# Modern UI/UX website 
+# Section Clone 
 
-This code repository for modern UI/UX website with ReactJs and Tailwind
+Code repository for a simple static page I made for the devFest challenge using ReactJs and Tailwind
 
 ## Screenshots
 
-![App Screenshot](https://camo.githubusercontent.com/c4493d95984ace14ebef070617d63d2fa8068b02a1359d1a311b175ce623026b/68747470733a2f2f692e6962622e636f2f424b31486e30782f53637265656e73686f742d323032322d30382d30382d61742d342d30352d34382d504d2e706e67)
+
+![Screenshot at 2022-12-02 12-27-10](https://user-images.githubusercontent.com/77940258/205282735-91e0f568-1dc4-4c83-8cbe-99ef76a86213.png)
 
 ## Demo
 
-link to demo : https://lucky-bombolone-4c5dcc.netlify.app/
+link to demo : https://loquacious-sawine-c1794f.netlify.app/
 
 
 ## Installation
@@ -17,7 +18,7 @@ link to demo : https://lucky-bombolone-4c5dcc.netlify.app/
 Install project with npm
 
 ```bash
-  cd ui_ux_website
+  cd sectionclone
   npm install 
   npm run start 
 ```
